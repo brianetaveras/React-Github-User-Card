@@ -40,12 +40,11 @@
 
 .user-card{
   width: 100%;
-  height: 100vh;
   max-width: 400px;
   padding: 10px;
   margin: 0 auto;
   box-shadow: 1px 1px 10px;
-
+  
 }
 
 .user-card .img-wrapper img{
@@ -60,4 +59,11 @@
   padding: 10px;
   margin: 10px auto;
   justify-content: space-evenly;;
+}
+
+.follower{
+  width: 300px;
+  background: #f1f1f1;
+  margin: 10px auto;
+  padding: 10px;
 }
